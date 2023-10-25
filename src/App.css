@@ -1,7 +1,10 @@
+body {
+  background-color: #333;
+  color: #f5f5f5;
+}
+
 .App {
   text-align: center;
-  background-color: #f5f5f5;
-  color: #333;
   font: 1em sans-serif;
 }
 
@@ -28,4 +31,21 @@ li {
 
 footer {
   padding: 20px 0;
+}
+
+a {
+  color: #007BFF; /* Цвет ссылок */
+  text-decoration: none; /* Убрать подчеркивание ссылок */
+}
+
+a:hover {
+  color: #0056b3; /* Изменить цвет ссылки при наведении курсора */
+}
+
+a:visited {
+  color: #7300e6; /* Цвет посещенных ссылок (измените по вашему желанию) */
+}
+
+a:visited:hover {
+  color: #5c00b4; /* Изменить цвет посещенной ссылки при наведении курсора (измените по вашему желанию) */
 }
