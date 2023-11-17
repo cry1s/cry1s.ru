@@ -14,9 +14,6 @@ const CV: React.FC = () => {
                   </a>
                 </div>
                 <div className="contact">
-                  Моб.: <b>+7 (958) 800-19-32</b>
-                </div>
-                <div className="contact">
                   Telegram:{" "}
                   <b>
                     <a href="https://telegram.me/cry1s">@cry1s</a>
@@ -32,8 +29,8 @@ const CV: React.FC = () => {
                   </b>
                 </div>
         <div className="skills">
-          Rust • Git • Docker • PostgreSQL • Веб-разработка • React • Node.js •
-          JavaScript • Linux • Express
+          Rust • Git • Ansible • Linux • Docker • PostgreSQL • Веб-разработка • React • Node.js •
+          JavaScript • Express
         </div>
       </div>
     </div>
